@@ -1,0 +1,70 @@
+@import url(http://fonts.googleapis.com/css?family=Luckiest+Guy);
+@import url(http://fonts.googleapis.com/css?family=Sigmar+One);
+@import url(http://fonts.googleapis.com/css?family=Antic+Slab&subset=cyrillic,latin,latin-ext);
+#main_rectangle {
+    width: 900px;
+    height: 500px;
+    background: linear-gradient(to left, #71B8FF, #0647A8);
+    position: absolute; left: 190px; top: 90px;
+}
+#main_rectangle {
+	-webkit-border-radius: 20px;
+}
+#line1 {
+	width: 900px;
+	height: 20px;
+	background: linear-gradient(to left, #FFFFFF, #9A9A9A);
+	position: absolute; left: 190px; top: 190px;
+}
+#white_rectangle{
+	width: 900px;
+    height: 100px;
+    background: #FFF;
+    position: absolute; left: 190px; top: 210px;
+}
+#line2 {
+	width: 900px;
+	height: 20px;
+	background: linear-gradient(to left, #FFFFFF, #9A9A9A);
+	position: absolute; left: 190px; top: 310px;
+}
+#pay{
+	position: absolute; left: 190px; top: 125px;
+	font-family: 'Sigmar One', cursive;
+	font-size: 70px;
+	color: #0647A8;
+}
+#pal{
+	position: absolute; left: 355px; top: 125px;
+	font-family: 'Sigmar One', cursive;
+	font-size: 70px;
+	color: #71B8FF;
+}
+#tm{
+	position: absolute; left: 500px; top: 210px;
+	color: #71B8FF;
+}
+#num1{
+	position: absolute; left: 340px; top: 350px;
+	color: #FFF;
+	font-size: 50px;
+	font-family: 'Antic Slab', serif;
+}
+#num2{
+	position: absolute; left: 490px; top: 350px;
+	color: #FFF;
+	font-size: 50px;
+	font-family: 'Antic Slab', serif;
+}
+#num3{
+	position: absolute; left: 640px; top: 350px;
+	color: #FFF;
+	font-size: 50px;
+	font-family: 'Antic Slab', serif;
+}
+#num4{
+	position: absolute; left: 790px; top: 350px;
+	color: #FFF;
+	font-size: 50px;
+	font-family: 'Antic Slab', serif;
+}
